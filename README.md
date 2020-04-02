@@ -1,6 +1,6 @@
 # hello-world
 just another repository
-<DOCTYPE html!>
+<html>
 <html lang="en">
   <head tittle="Hello-World">
   </head>
