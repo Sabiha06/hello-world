@@ -3,7 +3,7 @@ just another repository
 <DOCTYPE html!>
 <html lang="en">
   <head>
-    tittle="Hello-World
+    <tittle="Hello-World">
   </head>
   <body>
     <h1>My Home Page</h1>
