@@ -8,7 +8,7 @@ just another repository
     <h1>My Home Page</h1>
     <h2>Welcome to my page</h2>
     <p>I am learning to code from scratch.</p>
-    <p>
+    <p>I am a dentist by profession and keen about learning programming</p>
     <p>Though i am a beginner i am passionate about learning to code because everybody should learn to code.</p>
     <h3>My favourie pet</h3>
     <p>Cat is my favourite pet. They are too cute and therefore i like to keep them with me.</p>
